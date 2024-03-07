@@ -1,0 +1,17 @@
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.AssemblyInfo.cs
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\bin\Debug\net8.0\Sail Optimizer.exe
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\bin\Debug\net8.0\Sail Optimizer.deps.json
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\bin\Debug\net8.0\Sail Optimizer.runtimeconfig.json
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\bin\Debug\net8.0\Sail Optimizer.dll
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\bin\Debug\net8.0\Sail Optimizer.pdb
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.dll
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\refint\Sail Optimizer.dll
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.pdb
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.genruntimeconfig.cache
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\ref\Sail Optimizer.dll
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Optimizer.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\patri\source\repos\Sail Optimizer\Sail Optimizer\obj\Debug\net8.0\Sail Opt.907DF1CF.Up2Date

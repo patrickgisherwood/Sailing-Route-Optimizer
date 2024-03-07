@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xis1/QRHcx96cr+ywKVIzQVMTQuDKr1HBm0q9zaN0wRyDRmS+Xubjieha4IWIsbR6fipJILTPmLEvreVSaDZmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patri\\source\\repos\\Sail Optimizer\\Sail Optimizer\\Sail Optimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

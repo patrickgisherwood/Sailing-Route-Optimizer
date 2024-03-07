@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\source\\repos\\Sail Optimizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D90B32-9A35-4545-AF57-104E73288A81}|Sail Optimizer\\Sail Optimizer.csproj|c:\\users\\patri\\source\\repos\\sail optimizer\\sail optimizer\\polar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D90B32-9A35-4545-AF57-104E73288A81}|Sail Optimizer\\Sail Optimizer.csproj|solutionrelative:sail optimizer\\polar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D90B32-9A35-4545-AF57-104E73288A81}|Sail Optimizer\\Sail Optimizer.csproj|c:\\users\\patri\\source\\repos\\sail optimizer\\sail optimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D90B32-9A35-4545-AF57-104E73288A81}|Sail Optimizer\\Sail Optimizer.csproj|solutionrelative:sail optimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\Sail Optimizer\\Sail Optimizer\\Program.cs",
+              "RelativeDocumentMoniker": "Sail Optimizer\\Program.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\Sail Optimizer\\Sail Optimizer\\Program.cs",
+              "RelativeToolTip": "Sail Optimizer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T18:46:14.342Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polar.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\Sail Optimizer\\Sail Optimizer\\Polar.cs",
+              "RelativeDocumentMoniker": "Sail Optimizer\\Polar.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\Sail Optimizer\\Sail Optimizer\\Polar.cs",
+              "RelativeToolTip": "Sail Optimizer\\Polar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T03:41:35.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
